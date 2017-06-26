@@ -1,10 +1,19 @@
-Exceptional Realty Group Website
---
+# CSS Columns Along Exercise
 
-# Description
+## Overview
 
-This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
+In this code along exercise we will add column structure to our page layouts.
 
-# Contact
+## Steps
 
-email: scbblain@gmail.com
+1. Fork this repository.
+2. Clone your fork.
+3. cd into the folder for this lab.
+4. Code along with the included video below.
+
+## Code Along Exercise 4 ~ 28min
+
+<iframe width="100%" height="720" src="//www.youtube.com/embed/zZpAqtEXse0?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Codealong-Creating-Columns' title='Codealong Creating Columns'>Codealong Creating Columns</a> on Learn.co and start learning to code for free.</p>
+
